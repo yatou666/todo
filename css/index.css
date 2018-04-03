@@ -147,3 +147,7 @@ li .staractive{
     height: 62vh;
     transform: translateY(-62vh);
 }
+.swiper-slide img{
+    width: 375px;
+    height: 167px;
+}
